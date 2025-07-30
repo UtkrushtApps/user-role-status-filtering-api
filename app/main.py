@@ -3,4 +3,4 @@ from app.routers import user
 
 app = FastAPI()
 
-app.include_router(user.router)
+# your implementation here. Feel free to add directory structures that represent best practices in FastAPI
